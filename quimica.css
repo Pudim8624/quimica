@@ -14,3 +14,8 @@ font-size: 3px;
     justify-content: space-between;
 
 }
+main{
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 2rem;
+}
